@@ -1,0 +1,2 @@
+# kubernets_on_SakuraCloud
+さくらのクラウドでKubernetesを動かしてみる
